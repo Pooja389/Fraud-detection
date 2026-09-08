@@ -3,7 +3,7 @@
 A **Streamlit web app** that predicts whether a financial transaction could be fraudulent using a trained **machine learning pipeline**. Enter transaction details and get real-time predictions with clear alerts.
 
 ---
-
+live link: https://fraud-detection-2101.streamlit.app/
 ## Features
 
 - User-friendly interface to input transaction details.  
